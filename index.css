@@ -5,8 +5,8 @@
   }
   
   header{
-    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(home.jpg);
-    height:160vh;
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(fer.jpg);
+    height:180vh;
     background-size: cover;
     background-position: center;
   }
@@ -22,7 +22,7 @@
   }
   ul li a{
     text-decoration: none;
-    color: rgb(255, 255, 255);
+    color: rgb(247, 242, 242);
     padding: 5px 20px ;
     border: 1px solid transparent;  
     transition: 0.6s ease ;
@@ -40,6 +40,7 @@
   .main {
       max-width: 1200px;
       margin:auto ;
+      
   }
   .title{
     position:absolute;
@@ -59,7 +60,7 @@
   transform: translate(-50%,-50%);
   }
   .btn{
-    background-color: rgba(73, 177, 224, 0.952);
+    background-color: rgba(41, 187, 138, 0.952);
     border:1px solid white;
     padding:10px 30px;
     color:#fff; 
@@ -69,7 +70,7 @@
   }
   .btn:hover{
     background-color: #fff;
-    color: black;
+    color: rgb(0, 0, 0);
   }
   
   .rst{
@@ -82,3 +83,4 @@
   
   
   }
+ 
